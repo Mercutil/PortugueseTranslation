@@ -5,22 +5,22 @@ QUEST_LV_0300_20150323_000004	Não estou culpando a Deusa e sacerdotes.{nl} Mas 
 QUEST_LV_0300_20150323_000005	Os selos no vilarejo devem ser selados - Por isso são chamados de selos, então qual o problema?{nl} Os sacerdotes estão apenas tentando nos assustar sem nenhuma razão para isso.
 QUEST_LV_0300_20150323_000006	Os sacerdotes não querem que todos saibam o quão importante os selos do vilarejo são.{nl} Eles pensam que podem levar o fardo sobre si, então tudo estara bem.
 QUEST_LV_0300_20150323_000007	Alguns sacerdotes querem ser honestos e se abrir com os moradores.{nl}Nesse ritmo, se algo realmente ruim acontecer..
-QUEST_LV_0300_20150323_000008	$A energia maligna fazendo esta decadente floresta ser um lugar sem vida.{nl}É com certeza o maior problema que este vilarejo esta enfrentando.
+QUEST_LV_0300_20150323_000008	$A energia maligna esta fazendo esta decadente  floresta ser um lugar sem vida.{nl}É com certeza o maior problema que este vilarejo esta enfrentando.
 QUEST_LV_0300_20150323_000009	$Deusa...{nl}Por favor diga-me que o selo do vilarejo esta realmente ok...
-QUEST_LV_0300_20150323_000010	Demonios irão continuamente ter como alvo o selo e atacalo incessantemente.{nl}Com a Deusa Austeja ainda desaparecida, quanto tempo seremos capazes de durar..
+QUEST_LV_0300_20150323_000010	Demônios irão continuamente ter como alvo o selo e atacalo incessantemente.{nl}Com a Deusa Austeja ainda desaparecida, quanto tempo seremos capazes de durar..
 QUEST_LV_0300_20150323_000011 Foi um erro nosso tentar lidar com isso por nossas próprias forças.{nl}A partir de agora,vamos dizer aos moradores toda a verdade e incluí-los em uma discussão deliberada sobre como lidar com o assunto.
 QUEST_LV_0300_20150717_000012 Verifique a Funcionalidade do Detector (1)
-QUEST_LV_0300_20150717_000013 Demonios, Deusas, e a cidade petrificada (1)
+QUEST_LV_0300_20150717_000013 Demônios, Deusas, e a cidade petrificada (1)
 QUEST_LV_0300_20150717_000014 Verifique a Funcionalidade do Detector (2)
-QUEST_LV_0300_20150717_000015 Demonios, Deusas, e a cidade petrificada (2)
+QUEST_LV_0300_20150717_000015 Demônios, Deusas, e a cidade petrificada (2)
 QUEST_LV_0300_20150717_000016 Verifique a Funcionalidade do Detector (3) 
 QUEST_LV_0300_20150717_000017 Verifique a Funcionalidade do Detector (4)
 QUEST_LV_0300_20150717_000018 Sobre a Orientação das Almas
 QUEST_LV_0300_20150717_000019 Repare o detector petrificado
 QUEST_LV_0300_20150717_000020 Reparando/MAKING/3/TRACK_AFTER/None
-QUEST_LV_0300_20150717_000021 Verifique a Funcionalidade do Detecto (5)
+QUEST_LV_0300_20150717_000021 Verifique a Funcionalidade do Detector (5)
 QUEST_LV_0300_20150717_000022 Reparando/MAKING/3/TRACK_BEFORE
-QUEST_LV_0300_20150717_000023 Notice/!/Uma das partes não está muito bem presa{nl}Você vai precisar de algo como uma corda para amrrá-lo no lugar!#5
+QUEST_LV_0300_20150717_000023 Notice/!/Uma das partes não está muito bem presa{nl}Você vai precisar de algo como uma corda para amarrá-lo no lugar!#5
 QUEST_LV_0300_20150717_000024 Notice/!/Você precisa encontrar uma corda#5
 QUEST_LV_0300_20150717_000025 Para a Orientação das Almas
 QUEST_LV_0300_20150717_000026 Agora você pode relaxar
@@ -37,7 +37,7 @@ QUEST_LV_0300_20150717_000036 Destroir o Terminal (1)
 QUEST_LV_0300_20150717_000037 Sobre a Estrutura Principal e o Terminal
 QUEST_LV_0300_20150717_000038 Impeça o ataque dos monstros e destrua o terminal!#5
 QUEST_LV_0300_20150717_000039 Destroir o Terminal (2)
-QUEST_LV_0300_20150717_000040 $Acendendo pó explosivo/FIRE/2/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000040 $Acendender pó explosivo/FIRE/2/TRACK_BEFORE/None
 QUEST_LV_0300_20150717_000041 $Notice/O terminal foi destroido com a explosão!#5
 QUEST_LV_0300_20150717_000042 $Destroir o Terminal (3)
 QUEST_LV_0300_20150717_000043 $Repouso Eterno (1)
@@ -65,7 +65,7 @@ QUEST_LV_0300_20150717_000064 Infelizmente, os soldados do Exército do Reino n�
 QUEST_LV_0300_20150717_000065 Antes de ir reparar o detector petrificado,Converse com Kupole Meile sobre a situação iminente.
 QUEST_LV_0300_20150717_000066 Repare o Detector Petrificado
 QUEST_LV_0300_20150717_000067 Repare o primeiro detector petrificado que não está funcionando.
-QUEST_LV_0300_20150717_000068 Você derrotou todos os monstros que começaram a atacar quando vocÇe tentou repararo detector petrificado.Agora você pode voltar a reparar o detector petrificado em paz.
+QUEST_LV_0300_20150717_000068 Você derrotou todos os monstros que começaram a atacar quando você tentou reparar o detector petrificado.Agora você pode voltar a reparar o detector petrificado em paz.
 QUEST_LV_0300_20150717_000069 Repare o terceiro Detector Petrificado
 QUEST_LV_0300_20150717_000070 Agora vá reparar o terceiro detector petrificado.
 QUEST_LV_0300_20150717_000071 Encontre a Fixação de Cordas
@@ -156,13 +156,13 @@ QUEST_LV_0300_20150729_000155 $Traga o Núcleo do Terminal para Svitrigaila.
 QUEST_LV_0300_20150729_000156 $Fabrique %s
 QUEST_LV_0300_20150730_000157 $Como eu esperava, temos que conseguir o núcleo do Terminal novamente.{nl}Hmm..Vou lançar uma magia de proteção sobre você de modo que o terminal não poderá derrotá-lo como antes.{nl}Eu ainda tenho toda essa força.
 QUEST_LV_0300_20150730_000158 $Eu guio as almas petrificdas de acordo com a vontade da Deusa.
-QUEST_LV_0300_20150730_000159 $Pedra Congelada explodira aqui em breve. Mas não sabemos quando..{nl}Eu me pergunto se o Detector Petrificado esta funcionando corretamente na rota de abastecimento.{nl}Você poderia checar isso?
+QUEST_LV_0300_20150730_000159 $A Pedra Congelada explodira aqui em breve. Mas não sabemos quando..{nl}Eu me pergunto se o Detector Petrificado esta funcionando corretamente na rota de abastecimento.{nl}Você poderia checar isso?
 QUEST_LV_0300_20150730_000160 $Fabricar %s
-QUEST_LV_0300_20150803_000161 $Eles podem ser mortos desde que não tenha paralvra por parte deles.{nl}Se você encontrar seus corpos.. por favor, traga-os com suas lembranças.
+QUEST_LV_0300_20150803_000161 $Eles podem ser mortos desde que não tenha palavra por parte deles.{nl}Se você encontrar seus corpos.. por favor, traga-os com suas lembranças.
 QUEST_LV_0300_20150803_000162 $As tropas inteiras foram mortas. Agradeço pela ajuda{nl}Deve ser uma parte das lembranças.
 QUEST_LV_0300_20150803_000163 $Você precisa passar para reparar.{nl}Tenha cuidado com a Pedra Congelada.
 QUEST_LV_0300_20150803_000164 $Água abençoada?{nl}Para que precisa disso?
-QUEST_LV_0300_20150803_000165 $Existe um demônio que precisa de água abençoadano Distrito de Dingofasil?{nl}..
+QUEST_LV_0300_20150803_000165 $Existe um demônio que precisa de água abençoada no Distrito de Dingofasil?{nl}..
 QUEST_LV_0300_20150803_000166 ${nl}Eu não tenho interesse em seus assuntos pessoais, mas não posso ajudar demônios sendo um clérigo.
 QUEST_LV_0300_20150803_000167 $Talvez esta seja a única maneira..{nl}Destroindo o Dispositivo de Integração dos Espíritos..{nl}Aquele que me mandou aqui me disse{nl} Aquele Dispositivo de Integração do Espírito e eu somos um. Por que eu nunca o esqueci?
 QUEST_LV_0300_20150803_000168 $O Dispositivo de Integração do Espirito absorve almas de 3 terminais.{nl}A maldição de um tempo atrás foi um processo da absorção de almas.{nl}Vamos destruir os terminais um por um.
