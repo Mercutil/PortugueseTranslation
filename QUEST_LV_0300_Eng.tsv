@@ -1,102 +1,102 @@
-﻿QUEST_LV_0300_20150323_000001	We were deployed here from headquarters to support the Knights of Kaliss.{nl} If you want to know more, head over to our headquarters at Verkti Square.
-QUEST_LV_0300_20150323_000002	I've been a merchant all my life. After Medzio Diena, this seemed like the safest place to be, so I settled here.. But I guess I was wrong.
-QUEST_LV_0300_20150323_000003	I've met many Revelators during my travels.{nl} In my opinion.. there is something special about them, but it's not just that they're strong.
-QUEST_LV_0300_20150323_000004	I'm not blaming the Goddess and priests.{nl} But I think it's too much when they tell us to just trust them and wait.
-QUEST_LV_0300_20150323_000005	The seals in the village are supposed to be sealed - that's why they're called seals, so what's the big deal?{nl} The priests are just trying to scare us for no reason.
-QUEST_LV_0300_20150323_000006	The priests don't want everyone to know how important the seals in the village are.{nl} They think that they can just take the burden upon themselves, and then everything will be fine.
-QUEST_LV_0300_20150323_000007	Some of the priests want to be truthful and open with the villagers.{nl}At this rate, if something really bad happens..
-QUEST_LV_0300_20150323_000008	$The evil energy is making this forest decay into a lifeless place.{nl}It is easily the biggest problem this village is facing.
-QUEST_LV_0300_20150323_000009	$Goddess...{nl}Please tell me the seal of the village is really okay...
-QUEST_LV_0300_20150323_000010	Demons will continue to target the seal and attack endlessly.{nl}With Goddess Austeja still missing, how long will we be able to last..
-QUEST_LV_0300_20150323_000011 It was a mistake for us to try to handle this by ourselves.{nl}From now on, we will tell the villagers the whole truth and include them in a deliberate discussion on how to handle the matter.
-QUEST_LV_0300_20150717_000012 Check the Detector's Functionality (1)
-QUEST_LV_0300_20150717_000013 Demons, Goddesses, and the Petrified City (1)
-QUEST_LV_0300_20150717_000014 Check the Detector's Functionality (2)
-QUEST_LV_0300_20150717_000015 Demons, Goddesses, and the Petrified City (2)
-QUEST_LV_0300_20150717_000016 Check the Detector's Functionality (3) 
-QUEST_LV_0300_20150717_000017 Check the Detector's Functionality (4)
-QUEST_LV_0300_20150717_000018 About the Guidance of Souls
-QUEST_LV_0300_20150717_000019 Repair the Petrification Detector
-QUEST_LV_0300_20150717_000020 Repairing/MAKING/3/TRACK_AFTER/None
-QUEST_LV_0300_20150717_000021 Check the Detector's Functionality (5)
-QUEST_LV_0300_20150717_000022 Repairing/MAKING/3/TRACK_BEFORE
-QUEST_LV_0300_20150717_000023 Notice/!/One of the parts is not fastened very well{nl}You'll need something like a string to tie it in place!#5
-QUEST_LV_0300_20150717_000024 Notice/!/You need to find a string#5
-QUEST_LV_0300_20150717_000025 For the Guidance of Souls
-QUEST_LV_0300_20150717_000026 Now you can relax
-QUEST_LV_0300_20150717_000027 Examining the Device/LOOK/2/TRACK_BEFORE/None
-QUEST_LV_0300_20150717_000028 Notice/!/When you touch the device, it feels as if your soul is being sucked out!{nl}You begin to feel weaker and weaker!
-QUEST_LV_0300_20150717_000029 Notice/Now you feel reenergized#5
-QUEST_LV_0300_20150717_000030 His Only Desire (1)
-QUEST_LV_0300_20150717_000031 About The Reason Behind His Deathwish
-QUEST_LV_0300_20150717_000032 His Only Desire (3)
-QUEST_LV_0300_20150717_000033 His Only Desire (2)
-QUEST_LV_0300_20150717_000034 Go to the Cleric Master
-QUEST_LV_0300_20150717_000035 Now You Are Unable to Work Together
-QUEST_LV_0300_20150717_000036 Destroy the Terminal (1)
-QUEST_LV_0300_20150717_000037 About the Mainframe and the Terminal
-QUEST_LV_0300_20150717_000038 Avoid the monsters' attacks and destroy the terminal!#5
-QUEST_LV_0300_20150717_000039 Destroy the Terminal (2)
-QUEST_LV_0300_20150717_000040 $Igniting explosive powder/FIRE/2/TRACK_BEFORE/None
-QUEST_LV_0300_20150717_000041 $Notice/The terminal was destroyed in the explosion!#5
-QUEST_LV_0300_20150717_000042 $Destroy the Terminal (3)
-QUEST_LV_0300_20150717_000043 $And Eternal Repose (1)
-QUEST_LV_0300_20150717_000044 If You Have Any Final Words
-QUEST_LV_0300_20150717_000045 $And Eternal Repose (2)
-QUEST_LV_0300_20150717_000046 $Placing the Orb/MAKING/3/TRACK_BEFORE/None
-QUEST_LV_0300_20150717_000047 $And Eternal Repose (3)
-QUEST_LV_0300_20150717_000048 $Greetings
-QUEST_LV_0300_20150717_000049 $Notice/It looks like Svitrigaila's wish was granted#5
-QUEST_LV_0300_20150717_000050 $Inspect the Detector
-QUEST_LV_0300_20150717_000051 $Talk to Kupole Meile
-QUEST_LV_0300_20150717_000052 $Talk to Kupole, whom you saved from the Stone Frost.
-QUEST_LV_0300_20150717_000053 $Examine the Petrification Detectors
-QUEST_LV_0300_20150717_000054 $Check the detectors in areas you haven't been to yet to help Kupole Meile guide the souls safely from the Stone Frost.
-QUEST_LV_0300_20150717_000055 $Return to Kupole Meile
-QUEST_LV_0300_20150717_000056 $You checked all 4 detectors except the one at the entrance. Now return to Kupole Meile.
-QUEST_LV_0300_20150717_000057 $You have something to say about reactivating the malfunctioning detector. Talk to Kupole Meile again.
-QUEST_LV_0300_20150717_000058 $Meet Kingdom Army Guard Retia
-QUEST_LV_0300_20150717_000059 $Kupole said that the Kingdom Army installed the petrification detectors. Meet Kingdom Army Guard Retia at Verkti Square.
-QUEST_LV_0300_20150717_000060 $Talk some more with Kingdom Army Guard Retia about the malfunctioning detector at the Coastal Fortress.
-QUEST_LV_0300_20150717_000061 Find a part for the petrification detector
-QUEST_LV_0300_20150717_000062 Listen to Kingdom Army Guard Retia and look for the soldiers that were dispatched to the Coastal Fortress. If something has happened to them, you'll have to retrieve the part for the detector from their corpses. Also try hunting the monsters in the area.
-QUEST_LV_0300_20150717_000063 Meet Kupole Meile
-QUEST_LV_0300_20150717_000064 Unfortunately, the Kingdom Army soldiers did not survive, but you were able to collect all the necessary parts for the detector. Now, go tell Kupole what has happened, and then go repair the petrification detector.
-QUEST_LV_0300_20150717_000065 Before you go to repair the petrification detector, talk to Kupole Meile about the situation at hand.
-QUEST_LV_0300_20150717_000066 Repair the Petrification Detector
-QUEST_LV_0300_20150717_000067 Repair the first petrification detector that wasn't working.
-QUEST_LV_0300_20150717_000068 You have defeated all of the monsters that began to attack when you tried to repair the petrification detector. Now you can go back to repairing the petrification detector in peace.
-QUEST_LV_0300_20150717_000069 Repair the Third Petrification Detector
-QUEST_LV_0300_20150717_000070 Now go repair the third petrification detector.
-QUEST_LV_0300_20150717_000071 Find Fastening String
-QUEST_LV_0300_20150717_000072 You'll need some string to attach and secure the part to the detector. Try hunting some from monsters.
-QUEST_LV_0300_20150717_000073 You have collected enough string to fasten the part. Now repair the third petrification detector.
-QUEST_LV_0300_20150717_000074 Hunt monsters and collect %s
-QUEST_LV_0300_20150717_000075 Hunt monsters and collect string
-QUEST_LV_0300_20150717_000076 Go let Kupole Meile know that you have repaired all of the petrification detectors.
-QUEST_LV_0300_20150717_000077 Examine the Mysterious Device
-QUEST_LV_0300_20150717_000078 As you approach the unknown device, you feel strangely drawn to it and can't help but inch closer. What could this device be? Maybe you'd find out if you try touching it?
-QUEST_LV_0300_20150717_000079 Find Svitrigaila
-QUEST_LV_0300_20150717_000080 You begin to feel weaker and weaker, as if your soul is being drained from your body. Find someone who can help you out of this situation.
-QUEST_LV_0300_20150717_000081 His Only Desire
-QUEST_LV_0300_20150717_000082 Talk with Svitrigaila
-QUEST_LV_0300_20150717_000083 It looks like you're going to have to listen to Svitrigaila's story.
-QUEST_LV_0300_20150717_000084 Gather Poisonous Weeds
-QUEST_LV_0300_20150717_000085 Svitrigaila tells you that, as a Revelator, it wouldn't be bad for you to help him commit suicide, and he asks you to gather some poisonous herbs for him.
-QUEST_LV_0300_20150717_000086 Give Svitrigaila the Poisonous Herbs
-QUEST_LV_0300_20150717_000087 You have gathered all of the poisonous herbs that Svitrigaila asked you to get. Now return to Svitrigaila and give him the poisonous herbs you've collected.
-QUEST_LV_0300_20150717_000088 Talk to the Cleric Master to get the holy water that Svitrigaila needs.
-QUEST_LV_0300_20150717_000089 Return to Svitrigaila
-QUEST_LV_0300_20150717_000090 The Cleric Master stubbornly refused your request. That's unfortunate. Well anyhow, go tell Svitrigaila what happened.
-QUEST_LV_0300_20150717_000091 You gave Svitrigaila the poisonous herbs, and it appears that he ate them, but you don't see any change in him. Try speaking to him again.
-QUEST_LV_0300_20150717_000092 Seeing as there was no effect on Svitrigaila when he ate the poisonous herbs, it must be that he needs to mix them with holy water first, and then eat them to get the desired result. Find the Cleric Master and get the holy water from him.
-QUEST_LV_0300_20150717_000093 Destroy the Terminal
-QUEST_LV_0300_20150717_000094 Talk with Svitrigaila some more.
-QUEST_LV_0300_20150717_000095 Destroy the Soul Compactor Terminal
-QUEST_LV_0300_20150717_000096 In order to help Svitrigaila, you'll have to destroy the Soul Compaction Device. You'll need to gather some tools to help you destroy the Soul Compaction Device terminal, and then its the mainframe, beforehand. First things first, destroy the first terminal.
-QUEST_LV_0300_20150717_000097 Inform Svitrigaila
-QUEST_LV_0300_20150717_000098 You have destroyed the terminal. And you successfully retrieved the terminal's core. Give the core to Svitrigaila.
-QUEST_LV_0300_20150717_000099 Destroy the Terminal and Retrieve its Core
+﻿QUEST_LV_0300_20150323_000001	Fomos posicionados aqui pelo quartel general para auxiliar os Cavaleiros de Kaliss.{nl} Se quer saber mais, siga para nosso quartel general na praça de Verkti.
+QUEST_LV_0300_20150323_000002	Tenho sido um mercador por toda minha vida. Após Medzio Diena, este parecia ser o local mais seguro para se estar,então me estabeleci aqui.. Mas suponho que me enganei.
+QUEST_LV_0300_20150323_000003	Eu conheci muitos reveladores durante minha viagem.{nl} Na minha opinião.. Tem algo especial sobre eles, mas não apenas por causa da sua força.
+QUEST_LV_0300_20150323_000004	Não estou culpando a Deusa e sacerdotes.{nl} Mas eu acho demais quando nos dizem para apenas confiar neles e esperar.
+QUEST_LV_0300_20150323_000005	Os selos no vilarejo devem ser selados - Por isso são chamados de selos, então qual o problema?{nl} Os sacerdotes estão apenas tentando nos assustar sem nenhuma razão para isso.
+QUEST_LV_0300_20150323_000006	Os sacerdotes não querem que todos saibam o quão importante os selos do vilarejo são.{nl} Eles pensam que podem levar o fardo sobre si, então tudo estara bem.
+QUEST_LV_0300_20150323_000007	Alguns sacerdotes querem ser honestos e se abrir com os moradores.{nl}Nesse ritmo, se algo realmente ruim acontecer..
+QUEST_LV_0300_20150323_000008	$A energia maligna fazendo esta decadente floresta ser um lugar sem vida.{nl}É com certeza o maior problema que este vilarejo esta enfrentando.
+QUEST_LV_0300_20150323_000009	$Deusa...{nl}Por favor diga-me que o selo do vilarejo esta realmente ok...
+QUEST_LV_0300_20150323_000010	Demonios irão continuamente ter como alvo o selo e atacalo incessantemente.{nl}Com a Deusa Austeja ainda desaparecida, quanto tempo seremos capazes de durar..
+QUEST_LV_0300_20150323_000011 Foi um erro nosso tentar lidar com isso por nossas próprias forças.{nl}A partir de agora,vamos dizer aos moradores toda a verdade e incluí-los em uma discussão deliberada sobre como lidar com o assunto.
+QUEST_LV_0300_20150717_000012 Verifique a Funcionalidade do Detector (1)
+QUEST_LV_0300_20150717_000013 Demonios, Deusas, e a cidade petrificada (1)
+QUEST_LV_0300_20150717_000014 Verifique a Funcionalidade do Detector (2)
+QUEST_LV_0300_20150717_000015 Demonios, Deusas, e a cidade petrificada (2)
+QUEST_LV_0300_20150717_000016 Verifique a Funcionalidade do Detector (3) 
+QUEST_LV_0300_20150717_000017 Verifique a Funcionalidade do Detector (4)
+QUEST_LV_0300_20150717_000018 Sobre a Orientação das Almas
+QUEST_LV_0300_20150717_000019 Repare o detector petrificado
+QUEST_LV_0300_20150717_000020 Reparando/MAKING/3/TRACK_AFTER/None
+QUEST_LV_0300_20150717_000021 Verifique a Funcionalidade do Detecto (5)
+QUEST_LV_0300_20150717_000022 Reparando/MAKING/3/TRACK_BEFORE
+QUEST_LV_0300_20150717_000023 Notice/!/Uma das partes não está muito bem presa{nl}Você vai precisar de algo como uma corda para amrrá-lo no lugar!#5
+QUEST_LV_0300_20150717_000024 Notice/!/Você precisa encontrar uma corda#5
+QUEST_LV_0300_20150717_000025 Para a Orientação das Almas
+QUEST_LV_0300_20150717_000026 Agora vocÇe pode relaxar
+QUEST_LV_0300_20150717_000027 Examinando o dispositivo/LOOK/2/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000028 Notice/!/Quando você toca o dispositivo, sente como se sua alma estivesse sendo sugada!{nl}Você começa a se sentir cada vez mais fraco!
+QUEST_LV_0300_20150717_000029 Notice/Agora você se sente reenergizado#5
+QUEST_LV_0300_20150717_000030 O Ultimo Desejo Dele (1)
+QUEST_LV_0300_20150717_000031 A razão por trás de seu último desejo.
+QUEST_LV_0300_20150717_000032 O Ultimo Desejo Dele (3)
+QUEST_LV_0300_20150717_000033 O Ultimo Desejo Dele (2)
+QUEST_LV_0300_20150717_000034 Vá para o Mestre do Clérigo
+QUEST_LV_0300_20150717_000035 Agora vocês são incapazes de trabalharem juntos
+QUEST_LV_0300_20150717_000036 Destroir o Terminal (1)
+QUEST_LV_0300_20150717_000037 Sobre a Estrutura Principal e o Terminal
+QUEST_LV_0300_20150717_000038 Impeça o ataque dos monstros e destrua o terminal!#5
+QUEST_LV_0300_20150717_000039 Destroir o Terminal (2)
+QUEST_LV_0300_20150717_000040 $Acendendo pó explosivo/FIRE/2/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000041 $Notice/O terminal foi destroido com a explosão!#5
+QUEST_LV_0300_20150717_000042 $Destroir o Terminal (3)
+QUEST_LV_0300_20150717_000043 $Repouso Eterno (1)
+QUEST_LV_0300_20150717_000044 Se você tem algumas últimas palavras
+QUEST_LV_0300_20150717_000045 $Repouso Eterno (2)
+QUEST_LV_0300_20150717_000046 $Colocando a Orb/MAKING/3/TRACK_BEFORE/None
+QUEST_LV_0300_20150717_000047 $Repouso Eterno (3)
+QUEST_LV_0300_20150717_000048 $Saudações
+QUEST_LV_0300_20150717_000049 $Notice/Parece que o desejo de Svitrigaila foi concedido#5
+QUEST_LV_0300_20150717_000050 $Inspecione o Detector
+QUEST_LV_0300_20150717_000051 $Fale com Kupole Meile
+QUEST_LV_0300_20150717_000052 $Fale com Kupole,Quem você salvou da pedra congelada.
+QUEST_LV_0300_20150717_000053 $Examine a Petrificação dos Detectores
+QUEST_LV_0300_20150717_000054 $Confira os detectores nas areas que você ainda não esteve para ajudar Kupole Meile a guiar as almas com segurança a partir da Pedra Congelada.
+QUEST_LV_0300_20150717_000055 $Volte para Kupole Meile
+QUEST_LV_0300_20150717_000056 $Você checou todos os 4 detectores exceto o na entrada. Agora retorne para Kupole Meile.
+QUEST_LV_0300_20150717_000057 $Você tem algo a dizer sobre a reativação dos detectores com mau funcionamento. Fale com Kupole Meile novamente.
+QUEST_LV_0300_20150717_000058 $Conheça a Guarda do Exército do Reino de Retia
+QUEST_LV_0300_20150717_000059 $Kupole disse que o Exército Real instalou os detectores petrificados.Conheça a Guarda do Exército do Reino de Retia na praça de Verkti.
+QUEST_LV_0300_20150717_000060 $Conversar um pouco mais com a Guarda do Exército Real de Retia sobre o mau funcionamento do detector na Fortaleza Costeira.
+QUEST_LV_0300_20150717_000061 Encontre uma peça para o detector petrificado
+QUEST_LV_0300_20150717_000062 Escute a Guarda do Exército Real de Retia e olhe os soldados que foram designados para a Fortaleza Costeira.Se algo acontecer com eles, Você tera de recuperar a peça do detector de seus cadáveres. Tente também caçar os monstros na área.
+QUEST_LV_0300_20150717_000063 Conheça Kupole Meile
+QUEST_LV_0300_20150717_000064 Infelizmente, os soldados do Exército do Reino não sobreviveu, mas você foi capaz de coletar todas as peças necessárias para o detector.Agora, va contar a Kupole o que aconteceu, e então vá reparar o detector petrificador.
+QUEST_LV_0300_20150717_000065 Antes de ir reparar o detector petrificado,Converse com Kupole Meile sobre a situação iminente.
+QUEST_LV_0300_20150717_000066 Repare o Detector Petrificado
+QUEST_LV_0300_20150717_000067 Repare o primeiro detector petrificado que não está funcionando.
+QUEST_LV_0300_20150717_000068 Você derrotou todos os monstros que começaram a atacar quando vocÇe tentou repararo detector petrificado.Agora você pode voltar a reparar o detector petrificado em paz.
+QUEST_LV_0300_20150717_000069 Repare o terceiro Detector Petrificado
+QUEST_LV_0300_20150717_000070 Agora vá reparar o terceiro detector petrificado.
+QUEST_LV_0300_20150717_000071 Encontre a Fixação de Cordas
+QUEST_LV_0300_20150717_000072 Você vai precisar de alguma corda para prender e segurar a peça do detector. Tente caça-las em alguns monstros.
+QUEST_LV_0300_20150717_000073 Você coletou cordas o suficente para prender a peça. Agora repare o terceiro detector petrificado.
+QUEST_LV_0300_20150717_000074 Cace monstros e colete %s
+QUEST_LV_0300_20150717_000075 Cace monstros e colete cordas
+QUEST_LV_0300_20150717_000076 Vá e deixe Kupole Meile saber que você reparou todos os detectores petrificados.
+QUEST_LV_0300_20150717_000077 Examine o Dispositivo Misterioso
+QUEST_LV_0300_20150717_000078 Ao se aproximar do dispositivo desconhecido, Você sente-se estranhamente atraido por isso e não pode aproximar-se mais. O que poderia ser esse dispositivo? Talvez você descubra se você tocar nisso?
+QUEST_LV_0300_20150717_000079 Encontre Svitrigaila
+QUEST_LV_0300_20150717_000080 Você começou a sentir-se cada vez mais fraco,Como se sua alma fosse sugada para fora de seu corpo. Encontre alguem que possa ajudar você nessa situação.
+QUEST_LV_0300_20150717_000081 O Ultimo Desejo Dele
+QUEST_LV_0300_20150717_000082 Fale com Svitrigaila
+QUEST_LV_0300_20150717_000083 Parece que você tera que ouvir as historias de Svitrigaila.
+QUEST_LV_0300_20150717_000084 Reuna Ervas Daninhas venenosas
+QUEST_LV_0300_20150717_000085 Svitrigaila disse isso a você, como um revelador,não seria má ideia para você ajudalo a cometer suicídio, e ele pede para você reunir algumas ervas venenosas para ele.
+QUEST_LV_0300_20150717_000086 Dê a Svitrigaila as Ervas Venenosas
+QUEST_LV_0300_20150717_000087 Você recolheu todas as ervas venenosas que Svitrigaila pediu. Agora retorne para Svitrigaila e de a ele as ervas venenosas que você coletou.
+QUEST_LV_0300_20150717_000088 Fale com o Mestre do Clérigo para conseguir a água abençoada que Svitrigaila precisa.
+QUEST_LV_0300_20150717_000089 Retorne para Svitrigaila
+QUEST_LV_0300_20150717_000090 O Mestre do Clerigo recusou irredutivemente seu pedido. Isso é lamentável. Bem de qualquer maneira, vá contar a Svitrigaila o que aconteceu.
+QUEST_LV_0300_20150717_000091 Você deu a Svitrigaila as ervas venenosas, e parece que ele as comeu, mas você não ve qualquer mudança nele. Tente conversar novamente com ele.
+QUEST_LV_0300_20150717_000092 Vendo como não houve efeito com Svitrigaila quando ele comeu as ervas venenosas, elas tem de ser misturadas com a água abençoada primeiro, e então comidas para conseguir seu resultado desejado. Encontre o Mestre do Clérigo  e pegue uma água abençoada dele.
+QUEST_LV_0300_20150717_000093 Destrua o Terminal
+QUEST_LV_0300_20150717_000094 Fale com Svitrigaila um pouco mais.
+QUEST_LV_0300_20150717_000095 Destrua o Terminal do Compatador de Almas
+QUEST_LV_0300_20150717_000096 A fim de ajduar Svitrigaila, você tera que destroir o Dispositivo Compactador de Almas. Você precisa de algumas ferramenta para ajuda-lo a destroir o terminal do Dispositivo Compactador de Almas, e então sua estrutura principal, com antecedência. A prioridade, é destruir o primeiro terminal.
+QUEST_LV_0300_20150717_000097 Informar Svitrigaila
+QUEST_LV_0300_20150717_000098 Você destroiu o terminal. E você teve êxito recuperando o núcleo do terminal. Dê o núcleo para Svitrigaila.
+QUEST_LV_0300_20150717_000099 Destrua o terminal e Recupere seu Núcleo
 QUEST_LV_0300_20150717_000100
 QUEST_LV_0300_20150717_000101
 QUEST_LV_0300_20150717_000102
@@ -147,26 +147,26 @@ QUEST_LV_0300_20150729_000146
 QUEST_LV_0300_20150729_000147
 QUEST_LV_0300_20150729_000148
 QUEST_LV_0300_20150729_000149
-QUEST_LV_0300_20150729_000150 $I'll cooperate
-QUEST_LV_0300_20150729_000151 $Relationship between the Spirit Integration Device and Svitrigaila
-QUEST_LV_0300_20150729_000152 $Perhaps your soul is draining, you are gradually losing energy and stamina!! Hurry and search for anyone who can recover you!!
-QUEST_LV_0300_20150729_000153 $Obtain %s by destroying terminal
-QUEST_LV_0300_20150729_000154 $Bring Terminal core
-QUEST_LV_0300_20150729_000155 $Bring Terminal core to Svitrigaila.
-QUEST_LV_0300_20150729_000156 $Craft %s
-QUEST_LV_0300_20150730_000157 $As I expected, we have to get Terminal core again.{nl}Hmm.. I'll cast protection spell on you so terminal can't defeat you like before.{nl}I still have that much strength.
-QUEST_LV_0300_20150730_000158 $I guide petrified souls in accordance with the will of the goddess.
-QUEST_LV_0300_20150730_000159 $Stone Frost will blow here soon. But we don't know when..{nl}I wonder Petrification Detector is working properly at supply route.{nl}Could you please check it?
-QUEST_LV_0300_20150730_000160 $Craft %s
-QUEST_LV_0300_20150803_000161 $They might get killed since there's no word from them.{nl}If you find their bodies.. please bring them with their mementos.
-QUEST_LV_0300_20150803_000162 $The whole troops were killed. Thank you for the help{nl}There should be a part in the mementos.
-QUEST_LV_0300_20150803_000163 $You need to move on to repair.{nl}Be careful of Stone Frost.
-QUEST_LV_0300_20150803_000164 $Holy water?{nl}What do you need it for?
-QUEST_LV_0300_20150803_000165 $Is there a demon who needs holy water at Dingofasil District?{nl}..
-QUEST_LV_0300_20150803_000166 ${nl}I won't concern myself with your personal matters, but I can't help demons as a cleric.
-QUEST_LV_0300_20150803_000167 $Maybe this is the only way..{nl}Destroying the Spirit Integration Device..{nl}The ones who sent me here told me{nl}that Spirit Integration Device and I are one. Why did I ever forget it?
-QUEST_LV_0300_20150803_000168 $The Spirit Integration Device absorbs souls from 3 terminals.{nl}The curse a while ago was the process of absorbing souls.{nl}Let's destroy the terminals one by one.
-QUEST_LV_0300_20150803_000169 ${nl}Then bring the core.{nl}Ah, I'll cast a spell on you so you won't be cursed again.
+QUEST_LV_0300_20150729_000150 $Eu coperarei
+QUEST_LV_0300_20150729_000151 $Relação entre o  Dispositivo de Integração de Espirito e Svitrigaila
+QUEST_LV_0300_20150729_000152 $Talvez sua alma esteja sendo drenada, Você está gradualmente perdendo energia e resistência!! Apresse-se e procure por alguém que possa restaurar você!!
+QUEST_LV_0300_20150729_000153 $Adiquira %s destroindo o terminal
+QUEST_LV_0300_20150729_000154 $Traga o Núcleo do Terminal
+QUEST_LV_0300_20150729_000155 $Traga o Núcleo do Terminal para Svitrigaila.
+QUEST_LV_0300_20150729_000156 $Fabrique %s
+QUEST_LV_0300_20150730_000157 $Como eu esperava, temos que conseguir o núcleo do Terminal novamente.{nl}Hmm..Vou lançar uma magia de proteção sobre você de modo que o terminal não poderá derrotá-lo como antes.{nl}Eu ainda tenho toda essa força.
+QUEST_LV_0300_20150730_000158 $Eu guio as almas petrificdas de acordo com a vontade da Deusa.
+QUEST_LV_0300_20150730_000159 $Pedra Congelada explodira aqui em breve. Mas não sabemos quando..{nl}Eu me pergunto se o Detector Petrificado esta funcionando corretamente na rota de abastecimento.{nl}Você poderia checar isso?
+QUEST_LV_0300_20150730_000160 $Fabricar %s
+QUEST_LV_0300_20150803_000161 $Eles podem ser mortos desde que não tenha paralvra por parte deles.{nl}Se você encontrar seus corpos.. por favor, traga-os com suas lembranças.
+QUEST_LV_0300_20150803_000162 $As tropas inteiras foram mortas. Agradeço pela ajuda{nl}Deve ser uma parte das lembranças.
+QUEST_LV_0300_20150803_000163 $Você precisa passar para reparar.{nl}Tenha cuidado com a Pedra Congelada.
+QUEST_LV_0300_20150803_000164 $Água abençoada?{nl}Para que precisa disso?
+QUEST_LV_0300_20150803_000165 $Existe um demônio que precisa de água abençoadano Distrito de Dingofasil?{nl}..
+QUEST_LV_0300_20150803_000166 ${nl}Eu não tenho interesse em seus assuntos pessoais, mas não posso ajudar demônios sendo um clérigo.
+QUEST_LV_0300_20150803_000167 $Talvez esta seja a única maneira..{nl}Destroindo o Dispositivo de Integração dos Espíritos..{nl}Aquele que me mandou aqui me disse{nl} Aquele Dispositivo de Integração do Espírito e eu somos um. Por que eu nunca o esqueci?
+QUEST_LV_0300_20150803_000168 $O Dispositivo de Integração do Espirito absorve almas de 3 terminais.{nl}A maldição de um tempo atrás foi um processo da absorção de almas.{nl}Vamos destruir os terminais um por um.
+QUEST_LV_0300_20150803_000169 ${nl}Então traga o núcleo.{nl}Ah, vou lançar um feitiço sobre você, assim você não vai ser amaldiçoado novamente.
 QUEST_LV_0300_20150803_000170
 QUEST_LV_0300_20150803_000171
 QUEST_LV_0300_20150803_000172
